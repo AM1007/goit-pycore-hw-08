@@ -43,6 +43,6 @@ def main():
 
 #### Evaluation criteria:
 
-1. Implemented data serialization/deserialization protocol using pickle
-   All data must be saved when exiting the program
-   During a new session, the Address Book must be in the application that was at the previous launch.
+1. Implemented data serialization/deserialization protocol using `pickle`
+2. All data must be saved when exiting the program
+3. During a new session, the Address Book must be in the application that was at the previous launch.
